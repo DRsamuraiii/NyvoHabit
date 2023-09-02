@@ -7,18 +7,17 @@
 
 ## What is NyvoHabit project?
 ---
- > NyvoHabit is a one-purpose only project which is deployed on discord application interface using the a discord bot and the discord API.
+ > **NyvoHabit is a ```one-purpose only``` project which is deployed on ```discord application interface``` using the a ```discord bot``` and the ```discord API```.**
 
 
 ## What are the features?
 ---
- > Habit tracker.
-
- > Habit adopting system.
-
- > Motivation quotes.
-
- > Random users talking.
+ > | Feature |
+ > | ------- |
+ > | Habit tracker | 
+ > | Habit adopting system |
+ > | Motivation quotes |
+ > | Random users chatting for help |
 
 
 ## What is the purpose of this project?
