@@ -73,7 +73,8 @@
 >  | discord API | The main program launching interface    |
 
 > [!NOTE]
-> The usage of these third party tools complies with applicable laws and regulation , Since all the tools are open source and avaliable to use , Free of any charges.
+> The usage of these third party tools complies with applicable laws and regulation , since all the tools are open source and avaliable to use
+> free of any charges.
 
 ## Data privacy:
 
