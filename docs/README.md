@@ -2,9 +2,9 @@
 
 ## Tables of contents:
 ---
-> -  [What Is NyvoHabit project?](##what-is-nyvohabit-project?)
-> -  [What are the features?](##what-are-the-features?)
-> -  [What is the purpose of this project?](##what-is-the-purpose-of-this-project?)
+> -  [What Is NyvoHabit project?](##what-is-nyvohabit-project)
+> -  [What are the features?](##what-are-the-features)
+> -  [What is the purpose of this project?](##what-is-the-purpose-of-this-project)
 
 
 ## What is NyvoHabit project?
@@ -18,6 +18,7 @@
  > Habit adopting system.
  > Motivation quotes.
  > Random users talking.
+
 
 ## What is the purpose of this project?
 ---
