@@ -112,4 +112,4 @@
 
 
 > [!WARNING]
-> **Under any circumstance or situation , Do not contact the founder , co-founder , or employees direcly by their private mail box or message inbox.**
+> **Under any circumstance or situation , Do not contact the founder , co-founder , or employees direcly by their personal mail inbox or message inbox.**
