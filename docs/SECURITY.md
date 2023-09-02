@@ -34,7 +34,7 @@
   > | **Betas** | :white_check_mark: |
 
   > [!WARNING]
-  > This policy and All the contents and guides inside , Must be taken serious during all part's of the developement proccess , Including   each version.
+  > This policy and All the contents and guides inside , Must be taken serious during all part's of the developement proccess , Including each version.
 
 
 ## Security and copyright:
@@ -59,7 +59,7 @@
  > These laws are currently active and any Abuse , Mislead , Breaking will lead to legal Prosecution.
 
 
-## Third Party tools :
+## Third Party tools:
 
  > **This Project and all the programming spaces contained , Use the below third party tool's for improving the tasks aligend:**
 
