@@ -4,7 +4,7 @@
 <summary>Table Of contents:</summary>
 
   
-  - [Purpose of intent](purposes-of-this-policy-are)
+  - [Purpose of intent](##purposes-of-this-policy-are)
   - [Supported verions](supported-versions)
   - [Security and copyright](security-and-copyright)
   - [Conventions and style rules](conventions-and-style-rules)
