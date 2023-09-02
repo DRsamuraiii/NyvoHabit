@@ -19,7 +19,7 @@
  > Motivation quotes.
  > Random users talking.
 
-
+## What is the purpose of this project?
 ---
  > The first Idea of making this project work Was the reality that lots of us humans struggle with unwanted bad habit's that are just like blackhole's , Soaking us inside and deeper to 
  > the moment that leaving them become's a dream.
