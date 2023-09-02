@@ -6,10 +6,9 @@
  >  - [Purpose of intent](#purpose-of-intents)
  >  - [Supported verions](#supported-versions)
  >  - [Security and copyright](#security-and-copyright)
+ >  - [Third party tools](#third-party-tools)
  >  - [Conventions and style rules](#conventions-and-style-rules)
  >  - [vulnerability](#security-vulnerability-report)
-
-
 
 
 
@@ -60,7 +59,19 @@
  > These laws are currently active and any Abuse , Mislead , Breaking will lead to legal Prosecution.
 
 
+## Third Party tools :
 
+ > **This Project and all the programming spaces contained , Use the below third party tool's for improving the tasks aligend:**
+
+>  | Tool | Usage |
+>  |-------|-------|
+>  | pf/black | Maintaining the code readability |
+>  | Pylint | Maintaining the code readability |
+>  | discord.py | Running the bot on the discord Application programming interface |
+>  | discord API | The main program launching interface    |
+
+> [!NOTE]
+> The usage of these third party tools complies with applicable laws and regulation , Since all the tools are open source and avaliable to use , Free of any charges.
 
 ## Conventions and style rules:
 ---
