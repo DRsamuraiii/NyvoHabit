@@ -1,17 +1,16 @@
 # **Security Policy**
 
-<details>
-<summary>Table Of contents:</summary>
 
-  
-  - [Purpose of intent](##-purposes-of-this-policy-are)
-  - [Supported verions](supported-versions)
-  - [Security and copyright](security-and-copyright)
-  - [Conventions and style rules](conventions-and-style-rules)
-  - [vulnerability](security-vulnerability-report)
+## Table Of contents:
+---
+ >  - [Purpose of intent](##-purpose-of-intent:)
+ >  - [Supported verions](supported-versions)
+ >  - [Security and copyright](security-and-copyright)
+ >  - [Conventions and style rules](conventions-and-style-rules)
+ >  - [vulnerability](security-vulnerability-report)
 
 
-</details>
+
 
 
 ## *Purpose of Intent:*
@@ -22,6 +21,22 @@
   > 1. Organizing the structure of the project.
   > 2. Maintaining legal, ethical, and regulatory requirements.
   > 3. Locate the misuse of applications, networks, data, and computer systems.
+
+
+## *Supported Versions:*
+---
+  
+  > **Applied version's under the circumstances of this policy are:**
+
+  > | Version | Supported          |
+  > | ------- | ------------------ |
+  > | **After releases**   | :white_check_mark: |
+  > | **Pre releases** | :white_check_mark: |
+  > | **Betas** | :white_check_mark: |
+
+  > [!WARNING]
+  > This policy and All the contents and guides inside , Must be taken serious during all part's of the developement proccess , Including   each version.
+
 
 ## *Security and copyright:*
 ---
@@ -45,20 +60,6 @@
  > These laws are currently active and any Abuse , Mislead , Breaking will lead to legal Prosecution.
 
 
-
-## *Supported Versions:*
----
-  
-  > **Applied version's under the circumstances of this policy are:**
-
-  > | Version | Supported          |
-  > | ------- | ------------------ |
-  > | **After releases**   | :white_check_mark: |
-  > | **Pre releases** | :white_check_mark: |
-  > | **Betas** | :white_check_mark: |
-
-  > [!WARNING]
-  > This policy and All the contents and guides inside , Must be taken serious during all part's of the developement proccess , Including   each version.
 
 
 ## *Conventions and style rules:*
