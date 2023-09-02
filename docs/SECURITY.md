@@ -80,7 +80,7 @@
   > **In order to report any possible security vulnerability problem , Legal misleading , Contact the NyvoStudio team :**
 
   > - NyvoStudio mail box : **nyvostudio@gmail.com**
-  > - Reporting A issue on this repository : ... 
+  > - Reporting A issue on this repository 
   > - NyvoStudio discord report : **Coming soon...**
 
 
