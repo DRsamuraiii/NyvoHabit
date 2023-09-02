@@ -84,6 +84,7 @@
    > | Discord Application username | Creating the user account in the database | Using the application and/or Accepting privacy policies | Stopped using the service |
    > | Habits Inserted to the application | Following every habit timeline |  Using the application and/or Accepting the privacy policies | Stopped using the service |
    > | The time of habit insertion | Calculating the time of habit abandonment | Using the application and/or accpeting the privacy policies | Stopped using the service |
+
    > [!NOTE]
    > All the data's received from the user's are completely safe and encrypted .
 ## Conventions and style rules:
