@@ -3,11 +3,11 @@
 
 ## Table Of contents:
 ---
- >  - [Purpose of intent](##purpose-of-intents:)
- >  - [Supported verions](##supported-versions)
- >  - [Security and copyright](##security-and-copyright)
- >  - [Conventions and style rules](##conventions-and-style-rules)
- >  - [vulnerability](##security-vulnerability-report)
+ >  - [Purpose of intent](#purpose-of-intents)
+ >  - [Supported verions](#supported-versions)
+ >  - [Security and copyright](#security-and-copyright)
+ >  - [Conventions and style rules](#conventions-and-style-rules)
+ >  - [vulnerability](#security-vulnerability-report)
 
 
 
