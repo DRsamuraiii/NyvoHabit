@@ -3,7 +3,7 @@
 
 ## Table Of contents:
 ---
- >  - [Purpose of intent](purpose-of-intent)
+ >  - [Purpose of intent](##-purpose-of-intent)
  >  - [Supported verions](supported-versions)
  >  - [Security and copyright](security-and-copyright)
  >  - [Conventions and style rules](conventions-and-style-rules)
