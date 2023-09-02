@@ -3,6 +3,7 @@
 > -  [**What Is NyvoHabit project?**](#what-is-nyvohabit-project)
 > -  [**What are the features?**](#what-are-the-features)
 > -  [**What is the purpose of this project?**](#what-is-the-purpose-of-this-project)
+> -  [**Where can I read the privacy policies?**](#where-can-i-read-the-privacy-policies-file)
 
 
 ## What is NyvoHabit project?
@@ -27,5 +28,10 @@
  > As a human myself , I wanted to help other human's who are struggling with bad habits and need each other's help for getting out of the black hole , We all , Need each other.
  > So i decided to be honored with making this kind of project in discord , Since there aren't many bots in this case , With making this project I also can improve my skills in this 
  > case and learn new thing's.**
+
+
+# Where Can I read the privacy policies file?
+---
+> **You can Read our privacy policies at this repository [**Security Page**](https://github.com/KhodeNima/NyvoHabit/security/policy)**.
 
 
