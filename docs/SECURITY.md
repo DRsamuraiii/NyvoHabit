@@ -7,6 +7,7 @@
  >  - [Supported verions](#supported-versions)
  >  - [Security and copyright](#security-and-copyright)
  >  - [Third party tools](#third-party-tools)
+ >  - [Data privacy](#data-privacy)
  >  - [Conventions and style rules](#conventions-and-style-rules)
  >  - [vulnerability](#security-vulnerability-report)
 
@@ -20,6 +21,7 @@
   > 1. Organizing the structure of the project.
   > 2. Maintaining legal, ethical, and regulatory requirements.
   > 3. Locate the misuse of applications, networks, data, and computer systems.
+  > 4. Informing about the user data privacy.
 
 
 ## Supported Versions:
@@ -56,7 +58,7 @@
   > | Warranty | ⛔ |
 
  > [!WARNING]
- > These laws are currently active and any Abuse , Mislead , Breaking will lead to legal Prosecution.
+ > These laws are currently active and any Abuse , Mislead , Breaking will follow legal penalty and prosecution
 
 
 ## Third Party tools:
@@ -73,6 +75,17 @@
 > [!NOTE]
 > The usage of these third party tools complies with applicable laws and regulation , Since all the tools are open source and avaliable to use , Free of any charges.
 
+## Data privacy:
+
+   > **Datas collected from the user's during the usage period are:**
+
+   > | Data | Used in | Applied and stored when | Deleted when |
+   > |------|------ |---------- | ------ |
+   > | Discord Application username | Creating the user account in the database | Using the application and/or Accepting privacy policies | Stopped using the service |
+   > | Habits Inserted to the application | Following every habit timeline |  Using the application and/or Accepting the privacy policies | Stopped using the service |
+   > | The time of habit insertion | Calculating the time of habit abandonment | Using the application and/or accpeting the privacy policies | Stopped using the service |
+   > [!NOTE]
+   > All the data's received from the user's are completely safe and encrypted .
 ## Conventions and style rules:
 ---
 
@@ -91,7 +104,7 @@
   > **In order to report any possible security vulnerability problem , Legal misleading , Contact the NyvoStudio team :**
 
   > - NyvoStudio mail box : **nyvostudio@gmail.com**
-  > - Reporting A issue on this repository : [Create new issue](https://github.com/KhodeNima/NyvoHabit/issues/new)
+  > - Reporting A issue on this repository : [**Create new issue**](https://github.com/KhodeNima/NyvoHabit/issues/new)
   > - NyvoStudio discord report : **Coming soon...**
 
 
