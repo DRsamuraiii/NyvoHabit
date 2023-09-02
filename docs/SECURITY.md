@@ -42,7 +42,7 @@
 ## Security and copyright:
 ---
 
-  > **This project and all the repositories , Issues , Pull requests , Pages , Datasets , Documentations**:
+  > **This project and all the ```repositories``` , ```Issues``` , ```Pull requests``` , ```Pages``` , ```Datasets``` , ```Documentations``` , ```Security informations```**:
 
   > Are under *Creative Commons Zero v1.0 Universal License* , Which means All the permissions and limitations under this license are applied to this Project , Which are :
 
