@@ -86,7 +86,8 @@
    > | The time of habit insertion | Calculating the time of habit abandonment | Using the application and/or accpeting the privacy policies | Stopped using the service |
 
    > [!NOTE]
-   > All the data's received from the user's are completely safe and encrypted .
+   > All the data's received from the user's are completely safe and encrypted and we are committed to maintaining the accuracy, confidentiality, and security of your personally 
+   > identifiable information
 ## Conventions and style rules:
 ---
 
