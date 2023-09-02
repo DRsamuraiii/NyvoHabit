@@ -13,7 +13,7 @@
 
 
 
-## *Purpose of Intent:*
+## Purpose of Intent:
 ---
   
 > **Purposes of this policy are:**
@@ -23,7 +23,7 @@
   > 3. Locate the misuse of applications, networks, data, and computer systems.
 
 
-## *Supported Versions:*
+## Supported Versions:
 ---
   
   > **Applied version's under the circumstances of this policy are:**
@@ -38,7 +38,7 @@
   > This policy and All the contents and guides inside , Must be taken serious during all part's of the developement proccess , Including   each version.
 
 
-## *Security and copyright:*
+## Security and copyright:
 ---
 
   > **This project and all the repositories , Issues , Pull requests , Pages , Datasets , Documentations**:
@@ -62,7 +62,7 @@
 
 
 
-## *Conventions and style rules:*
+## Conventions and style rules:
 ---
 
    >  **By any situation , All the employees of this project must follow the styling rule's of NyvoStudio which are:**
@@ -75,7 +75,7 @@
   
 
 
-## *Security vulnerability report:*
+## Security vulnerability report:
 ---
   > **In order to report any possible security vulnerability problem , Legal misleading , Contact the NyvoStudio team :**
 
