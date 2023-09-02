@@ -91,7 +91,7 @@
   > **In order to report any possible security vulnerability problem , Legal misleading , Contact the NyvoStudio team :**
 
   > - NyvoStudio mail box : **nyvostudio@gmail.com**
-  > - Reporting A issue on this repository 
+  > - Reporting A issue on this repository : [Create new issue](https://github.com/KhodeNima/NyvoHabit/issues/new)
   > - NyvoStudio discord report : **Coming soon...**
 
 
