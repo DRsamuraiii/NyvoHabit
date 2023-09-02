@@ -21,7 +21,7 @@
   > 1. Organizing the structure of the project.
   > 2. Maintaining legal, ethical, and regulatory requirements.
   > 3. Locate the misuse of applications, networks, data, and computer systems.
-  > 4. Informing about the user data privacy.
+  > 4. Briefingthe data privacy circuimstances.
 
 
 ## Supported Versions:
@@ -90,13 +90,13 @@
 ## Conventions and style rules:
 ---
 
-   >  **By any situation , All the employees of this project must follow the styling rule's of NyvoStudio which are:**
+   >  **By any situation , All the employees of this project must follow the [styling rules of NyvoStudio](https://github.com/NyvoStudio/StyleGuide/tree/Main.project/styling_guide) which are:**
     
-  > - Filing style
-  > - Text organizing style
-  > - Algorithm designing style
-  > - Markdown language style
-  > - Programming style
+  > - Filing style.
+  > - Text organizing style.
+  > - Algorithm designing style.
+  > - Markdown language style.
+  > - Programming style.
   
 
 
