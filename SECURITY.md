@@ -58,7 +58,7 @@
   > | **Betas** | :white_check_mark: |
 
   > [!WARNING]
-  > This policy and All the contents and guides inside , Must be taken serious during all part's of the developement proccess , Including each version.
+  > This policy and All the contents and guides inside , Must be taken serious during all part's of the developement proccess , Including   each version.
 
 
 ## *Conventions and style rules:*
@@ -76,10 +76,11 @@
 
 ## *Security vulnerability report:*
 ---
-  **In order to report any possible security vulnerability problem , Legal misleading , Contact the NyvoStudio team :**
+  > **In order to report any possible security vulnerability problem , Legal misleading , Contact the NyvoStudio team :**
 
   > - NyvoStudio mail box : **nyvostudio@gmail.com**
   > - NyvoStudio discord report : **Coming soon...**
 
+
 > [!WARNING]
-> **Under any circumstance or situation , Do not contact the founder , co-founder , Or employees direcly by their private mail box or message inbox.**
+> **Under any circumstance or situation , Do not contact the founder , co-founder , or employees direcly by their private mail box or message inbox.**
