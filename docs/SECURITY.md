@@ -37,7 +37,9 @@
   > | **After releases**   | :white_check_mark: |
   > | **Pre releases** | :white_check_mark: |
   > | **Betas** | :white_check_mark: |
+ 
 <br>
+
   > [!WARNING]
   > This policy and All the contents and guides inside , Must be taken serious during all part's of the developement proccess , Including each version.
 ---
@@ -61,6 +63,7 @@
   > | Trademark use | ⛔ |
   > | Patent use | ⛔ |
   > | Warranty | ⛔ |
+
 <br>
  > [!WARNING]
  > These laws are currently active and any Abuse , Mislead , Breaking will follow legal penalty and prosecution
@@ -77,6 +80,7 @@
 >  | Pylint | Maintaining the code readability |
 >  | discord.py | Running the bot on the discord Application programming interface |
 >  | discord API | The main program launching interface    |
+
 <br>
 > [!NOTE]
 > The usage of these third party tools complies with applicable laws and regulation , since all the tools are open source and avaliable to use
@@ -95,6 +99,7 @@
    > | Habits Inserted to the application | Following every habit timeline |  Using the application and/or Accepting the privacy policies | Stopped using the service |
    > | The time of habit insertion | Calculating the time of habit abandonment | Using the application and/or accpeting the privacy policies | Stopped using the service |
 <br>
+
    > [!NOTE]
    > All the data's received from the user's are completely safe and encrypted and we are committed to maintaining the accuracy, confidentiality, and security of your personally 
    > identifiable information
@@ -113,6 +118,7 @@
   > - Markdown language style.
   > - Programming style.
 ---
+
 <br>
 
 
