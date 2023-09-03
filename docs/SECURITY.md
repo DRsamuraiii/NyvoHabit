@@ -65,6 +65,7 @@
   > | Warranty | ⛔ |
 
 <br>
+
  > [!WARNING]
  > These laws are currently active and any Abuse , Mislead , Breaking will follow legal penalty and prosecution
 ---
@@ -82,6 +83,7 @@
 >  | discord API | The main program launching interface    |
 
 <br>
+
 > [!NOTE]
 > The usage of these third party tools complies with applicable laws and regulation , since all the tools are open source and avaliable to use
 > free of any charges.
@@ -131,6 +133,7 @@
   > - Reporting on nyvostudio discord server : **Coming soon...**
 
 <br>
+
 > [!WARNING]
 > **Under any circumstance or situation , Do not contact the founder , co-founder , or/and employees of this project direcly by their personal mail inbox or message inbox.**
 
