@@ -36,7 +36,7 @@
  > **The first Idea of making this project work Was the reality that lots of us humans struggle with unwanted bad habit's that are just like blackhole's , Soaking us inside and deeper to
  > the moment that leaving them become's a dream.
  > As a human myself , I wanted to help other human's who are struggling with bad habits and need each other's help for getting out of the black hole , We all , Need each other.
- > So i decided to be honored with making this kind of project in discord , Since there aren't many bots in this case , With making this project I also can improve my skills in this 
+ > So i decided to be honored with making this kind of project in discord , Since there aren't many user-made bot with this description , With making this project I also can improve my skills in this 
  > case and learn new thing's.**
 ---
 
