@@ -71,7 +71,7 @@
 
 > [!NOTE]
 > We are not responsible for any damages or losses that may result from the distribution, modification, or use of this project by others. While we have made every effort to ensure that > this project is functional and reliable, we cannot guarantee its performance or fitness for any particular purpose, and we are not responsible for any damages or losses that may
-> result from its use. We strongly recommend that any modifications to this project be thoroughly tested and validated before being deployed in a production environment.
+ result from its use. We strongly recommend that any modifications to this project be thoroughly tested and validated before being deployed in a production environment.
 
 <br>
 
