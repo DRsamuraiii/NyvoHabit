@@ -1,7 +1,8 @@
 ---
 name: Bug report
 about: Create a report to help us improve
-title: 'Write the bug category only , e.g : ''Message prompt bug'''
+title: 'Write the bug category only , e.g : ''Message prompt bug'' ( Do describe the
+  bug )'
 labels: Bug
 assignees: ''
 
