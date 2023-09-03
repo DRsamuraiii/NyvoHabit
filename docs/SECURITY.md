@@ -20,10 +20,13 @@
   
 > **Purposes of this policy are:**
 
-  > 1. Organizing the structure of the project.
-  > 2. Maintaining legal, ethical, and regulatory requirements.
-  > 3. Locate the misuse of applications, networks, data, and computer systems.
-  > 4. Briefingthe data privacy circuimstances.
+  > | Number | Purpose
+  > | ------ | ------ |
+  > | 1.| Maintaining legal, ethical, and regulatory requirements. |
+  > | 2.| Locate the misuse of applications, networks, data, and computer systems. |
+  > | 3.| Briefing the data privacy circumstances |
+  > | 4.| Organizing the structure of the project. |
+
 ---
 <br>
 
@@ -51,7 +54,7 @@
 
   > **This project and all the ```repositories``` , ```Issues``` , ```Pull requests``` , ```Pages``` , ```Datasets``` , ```Documentations``` , ```Security informations```**:
 
-  > Are under *Creative Commons Zero v1.0 Universal License* , Which means All the permissions and limitations under this license are applied to this Project , Which are :
+  > Are licensed under *Creative Commons Zero v1.0 Universal License* , Which means All the permissions and limitations under this license are applied to this Project , Which are :
 
   > | Permissions | Approeved |
   > | ----------- | --------- |
@@ -63,6 +66,10 @@
   > | Trademark use | ⛔ |
   > | Patent use | ⛔ |
   > | Warranty | ⛔ |
+
+<br>
+[!NOTE]
+We are not responsible for any damages or losses that may result from the distribution, modification, or use of this project by others. While we have made every effort to ensure that this project is functional and reliable, we cannot guarantee its performance or fitness for any particular purpose, and we are not responsible for any damages or losses that may result from its use. We strongly recommend that any modifications to this project be thoroughly tested and validated before being deployed in a production environment.
 
 <br>
 
