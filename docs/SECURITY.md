@@ -1,4 +1,5 @@
-# **Security Policy**
+# **Security Policy**  
+<br>
 
 
 ## Table Of contents:
@@ -10,7 +11,8 @@
  >  - [Data privacy](#data-privacy)
  >  - [Conventions and style rules](#conventions-and-style-rules)
  >  - [vulnerability](#security-vulnerability-report)
-
+---
+<br>
 
 
 ## Purpose of Intents:
@@ -22,7 +24,8 @@
   > 2. Maintaining legal, ethical, and regulatory requirements.
   > 3. Locate the misuse of applications, networks, data, and computer systems.
   > 4. Briefingthe data privacy circuimstances.
-
+---
+<br>
 
 ## Supported Versions:
 ---
@@ -37,6 +40,8 @@
 
   > [!WARNING]
   > This policy and All the contents and guides inside , Must be taken serious during all part's of the developement proccess , Including each version.
+---
+<br>
 
 
 ## Security and copyright:
@@ -59,10 +64,11 @@
 
  > [!WARNING]
  > These laws are currently active and any Abuse , Mislead , Breaking will follow legal penalty and prosecution
-
+---
+<br>
 
 ## Third Party tools:
-
+---
  > **This Project and all the programming spaces contained , Use the below third party tool's for improving the tasks aligend:**
 
 >  | Tool | Usage |
@@ -75,9 +81,12 @@
 > [!NOTE]
 > The usage of these third party tools complies with applicable laws and regulation , since all the tools are open source and avaliable to use
 > free of any charges.
+---
+<br>
+
 
 ## Data privacy:
-
+---
    > **Datas collected from the user's during the usage period are:**
 
    > | Data | Used in | Applied and stored when | Deleted when |
@@ -89,6 +98,10 @@
    > [!NOTE]
    > All the data's received from the user's are completely safe and encrypted and we are committed to maintaining the accuracy, confidentiality, and security of your personally 
    > identifiable information
+---
+<br>
+
+
 ## Conventions and style rules:
 ---
 
@@ -99,7 +112,8 @@
   > - Algorithm designing style.
   > - Markdown language style.
   > - Programming style.
-  
+---
+<br>
 
 
 ## Security vulnerability report:
@@ -107,9 +121,12 @@
   > **In order to report any possible security vulnerability problem , Legal misleading , Contact the NyvoStudio team :**
 
   > - NyvoStudio mail box : **nyvostudio@gmail.com**
-  > - Reporting A issue on this repository : [**Create new issue**](https://github.com/KhodeNima/NyvoHabit/issues/new)
+  > - Reporting on this repository by [**Creating a new issue**](https://github.com/KhodeNima/NyvoHabit/issues/new)
   > - NyvoStudio discord report : **Coming soon...**
 
 
 > [!WARNING]
 > **Under any circumstance or situation , Do not contact the founder , co-founder , or employees direcly by their personal mail inbox or message inbox.**
+
+---
+<br>
