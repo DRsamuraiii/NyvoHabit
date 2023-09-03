@@ -118,15 +118,15 @@
 
 ## Security vulnerability report:
 ---
-  > **In order to report any possible security vulnerability problem , Legal misleading , Contact the NyvoStudio team :**
+  > **In order to report any possible security vulnerability problem or/and Legal misleading , Contact the NyvoStudio team by :**
 
   > - NyvoStudio mail box : **nyvostudio@gmail.com**
   > - Reporting on this repository by [**Creating a new issue**](https://github.com/KhodeNima/NyvoHabit/issues/new)
-  > - NyvoStudio discord report : **Coming soon...**
+  > - Reporting on nyvostudio discord server : **Coming soon...**
 
 
 > [!WARNING]
-> **Under any circumstance or situation , Do not contact the founder , co-founder , or employees direcly by their personal mail inbox or message inbox.**
+> **Under any circumstance or situation , Do not contact the founder , co-founder , or/and employees of this project direcly by their personal mail inbox or message inbox.**
 
 ---
 <br>
