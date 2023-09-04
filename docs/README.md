@@ -46,7 +46,7 @@
 
 # Where can I read the detailed privacy policy information?
 ---
-> *To access our privacy policy documentation, please refer to the designated [**Security Page**](https://github.com/KhodeNima/NyvoHabit/security/policy)**.
+> **To access our privacy policy documentation, please refer to the designated [**Security Page**](https://github.com/KhodeNima/NyvoHabit/security/policy)**.
 ---
 
 
