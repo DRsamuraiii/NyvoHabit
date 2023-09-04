@@ -1,4 +1,4 @@
-## Tables of contents:
+## Table of contents:
 ---
 > -  [**What Is NyvoHabit project?**](#what-is-nyvohabit-project)
 > -  [**What are the features?**](#what-are-the-features)
