@@ -3,7 +3,7 @@
 > -  [**What Is NyvoHabit project?**](#what-is-nyvohabit-project)
 > -  [**What are the features?**](#what-are-the-features)
 > -  [**What is the purpose of this project?**](#what-is-the-purpose-of-this-project)
-> -  [**Where can I read the privacy policy documentation?**](#where-can-i-read-the-detailed-privacy-policy-information?)
+> -  [**Where can I read the privacy policy documentation?**](#where-can-i-read-the-detailed-privacy-policy-information)
 ---
 
 
