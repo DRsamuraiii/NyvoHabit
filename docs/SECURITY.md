@@ -10,7 +10,7 @@
  >  - [Third party tools](#third-party-tools)
  >  - [Data privacy](#data-privacy)
  >  - [Conventions and style rules](#conventions-and-style-rules)
- >  - [Reporting](#security-vulnerability-report)
+ >  - [Reporting](#reporting)
 ---
 <br>
 
@@ -135,7 +135,7 @@
 <br>
 
 
-## Security vulnerability report:
+## Reporting:
 ---
   > **In order to report any possible security vulnerability problem or/and Legal misleading , Harassment , misleaded code of conduct by employee , Contact the NyvoStudio team by :**
 
