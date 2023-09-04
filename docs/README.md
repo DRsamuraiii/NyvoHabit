@@ -3,7 +3,7 @@
 > -  [**What Is NyvoHabit project?**](#what-is-nyvohabit-project)
 > -  [**What are the features?**](#what-are-the-features)
 > -  [**What is the purpose of this project?**](#what-is-the-purpose-of-this-project)
-> -  [**Where can I read the privacy policies?**](#where-can-i-read-the-privacy-policies-file)
+> -  [**Where can I read the privacy policy documentation?**](#where-can-i-read-the-detailed-privacy-policy-information?)
 ---
 
 
@@ -44,9 +44,9 @@
 <br>
 
 
-# Where Can I read the privacy policies file?
+# Where can I read the detailed privacy policy information?
 ---
-> **You can Read our privacy policies at this repository [**Security Page**](https://github.com/KhodeNima/NyvoHabit/security/policy)**.
+> **You can read our privacy policy documentation at this repository [**Security Page**](https://github.com/KhodeNima/NyvoHabit/security/policy)**.
 ---
 
 
