@@ -18,7 +18,7 @@
 ## Purpose of Intents:
 ---
   
-> **Purposes of this policy are:**
+> **The purpose of this policy is to:**
 
   > | Number | Purpose
   > | ------ | ------ |
@@ -33,7 +33,7 @@
 ## Supported Versions:
 ---
   
-  > **Applied version's under the circumstances of this policy are:**
+  > **The applicable versions under the circumstances of this policy are:**
 
   > | Version | Supported          |
   > | ------- | ------------------ |
@@ -44,7 +44,7 @@
 <br>
 
   > [!WARNING]
-  > This policy and All the contents and guides inside , Must be taken serious during all part's of the developement proccess , Including each version.
+  > This policy and all the contents and guides inside must be taken seriously during all parts of the development process and during each version.
 ---
 <br>
 
