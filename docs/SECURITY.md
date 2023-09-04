@@ -124,11 +124,11 @@
 
    >  **By any situation , All the employees of this project must follow the [styling rules of NyvoStudio](https://github.com/NyvoStudio/StyleGuide/tree/Main.project/styling_guide) which are:**
 
-  > - GitHub Project organizing style.
   > - Filing style.
   > - Text organizing style.
   > - Algorithm designing style.
   > - Markdown language style.
+  > - GitHub Project organizing style.
   > - Programming style.
 ---
 
