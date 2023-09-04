@@ -12,7 +12,7 @@
 
 ## What is NyvoHabit project?
 ---
- > **NyvoHabit is a ```one-purpose only``` project which is deployed on ```discord application interface``` using the a ```discord bot``` and the ```discord API```.**
+ > **NyvoHabit is a single-purpose project designed to operate on the ```Discord application interfac```e through the deployment of a ```dedicated Discord bot``` and the ```Discord API```..**
 ---
 
 <br>
@@ -33,11 +33,11 @@
 
 ## What is the purpose of this project?
 ---
- > **The first Idea of making this project work Was the reality that lots of us humans struggle with unwanted bad habit's that are just like blackhole's , Soaking us inside and deeper to
- > the moment that leaving them become's a dream.
- > As a human myself , I wanted to help other human's who are struggling with bad habits and need each other's help for getting out of the black hole , We all , Need each other.
- > So i decided to be honored with making this kind of project in discord , Since there aren't many user-made bot with this description , With making this project I also can improve my skills in this 
- > case and learn new thing's.**
+> **The origin and motivation for the development of this project were based on the observation that many humans struggle with destructive behaviors and habits that can feel all
+> consuming. Recognizing the collective need for support and assistance in breaking free from these habits, the decision was made to create a community-driven project on Discord. As a 
+> human myself, I understand and can empathize with the challenges associated with overcoming bad habits, and I wanted to help others who may also need assistance. This project not only
+> offers an opportunity to improve skills and learn new things, but also to provide a platform for mutual support and understanding among individuals working to overcome these
+> obstacles.**
 ---
 
 
@@ -46,7 +46,7 @@
 
 # Where can I read the detailed privacy policy information?
 ---
-> **You can read our privacy policy documentation at this repository [**Security Page**](https://github.com/KhodeNima/NyvoHabit/security/policy)**.
+> *To access our privacy policy documentation, please refer to the designated [**Security Page**](https://github.com/KhodeNima/NyvoHabit/security/policy)**.
 ---
 
 
