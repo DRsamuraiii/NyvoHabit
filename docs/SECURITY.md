@@ -10,7 +10,7 @@
  >  - [Third party tools](#third-party-tools)
  >  - [Data privacy](#data-privacy)
  >  - [Conventions and style rules](#conventions-and-style-rules)
- >  - [vulnerability](#security-vulnerability-report)
+ >  - [Reporting](#security-vulnerability-report)
 ---
 <br>
 
@@ -137,7 +137,7 @@
 
 ## Security vulnerability report:
 ---
-  > **In order to report any possible security vulnerability problem or/and Legal misleading , Contact the NyvoStudio team by :**
+  > **In order to report any possible security vulnerability problem or/and Legal misleading , Harassment , misleaded code of conduct by employee , Contact the NyvoStudio team by :**
 
   > - NyvoStudio mail box : **nyvostudio@gmail.com**
   > - Reporting on this repository by [**Creating a new issue**](https://github.com/KhodeNima/NyvoHabit/issues/new)
