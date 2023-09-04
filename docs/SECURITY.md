@@ -128,8 +128,8 @@
   > - Text organizing style.
   > - Algorithm designing style.
   > - Markdown language style.
-  > - GitHub Project organizing style.
   > - Programming style.
+  > - GitHub Project organizing style.
 ---
 
 <br>
@@ -137,7 +137,7 @@
 
 ## Reporting:
 ---
-  > **In order to report any possible security vulnerability problem or/and Legal misleading , Harassment , misleaded code of conduct by employee , Contact the NyvoStudio team by :**
+  > **To report any possible security vulnerability, legal concern, harassment, or misguidance of code of conduct by an employee, we kindly request that you reach out to the NyvoStudio team through the following methods:**
 
   > - NyvoStudio mail box : **nyvostudio@gmail.com**
   > - Reporting on this repository by [**Creating a new issue**](https://github.com/KhodeNima/NyvoHabit/issues/new)
