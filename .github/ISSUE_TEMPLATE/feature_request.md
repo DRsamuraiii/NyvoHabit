@@ -9,6 +9,10 @@ assignees: ''
 ---
 
 ---
+> **Contact information**
+*A method for announcing to you if a update is sued.*
+
+---
 > **Is your feature request related to a problem? Please describe.**
 A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
 
