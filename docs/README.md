@@ -48,7 +48,6 @@
 ---
 > **To access our privacy policy documentation, please refer to the designated [**Security Page**](https://github.com/KhodeNima/NyvoHabit/security/policy)**.
 ---
-...
 
 <br>
 
