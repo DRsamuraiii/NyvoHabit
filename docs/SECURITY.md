@@ -140,7 +140,7 @@
   > **To report any possible security vulnerability, legal concern, harassment, or misguidance of code of conduct by an employee, we kindly request that you reach out to the NyvoStudio team through the following methods:**
 
   > - NyvoStudio mail box : **nyvostudio@gmail.com**
-  > - Reporting on this repository by [**Creating a new issue**](https://github.com/KhodeNima/NyvoHabit/issues/new)
+  > - Reporting on this repository by [**Creating a new issue**](https://github.com/KhodeNima/NyvoHabit/security/advisories/new)
   > - Reporting on nyvostudio discord server : **Coming soon...**
 
 <br>
