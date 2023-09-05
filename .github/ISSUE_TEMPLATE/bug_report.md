@@ -10,7 +10,7 @@ assignees: ''
 
 ---
 > **Contact information**
-*A method for announcing to you if a update is sued.
+*A method for announcing to you if a update is sued.*
 
 ---
 > **Describe the bug**
