@@ -8,7 +8,11 @@ assignees: ''
 
 ---
 
-----
+---
+> **Contact information**
+*A method for announcing to you if a update is sued.
+
+---
 > **Describe the bug**
 *A clear and concise description of what the bug is.*
 ---
@@ -22,7 +26,7 @@ assignees: ''
 *A clear and concise description of what you expected to happen.*
 ---
 > **Produced behavior**
-*A clear and concise description of what has happened. ( Not what you expected) *
+*A clear and concise description of what has happened. ( Not what you expected)*
 ---
 > **Screenshots**
 *If applicable, add screenshots to help explain your problem.*
