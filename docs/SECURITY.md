@@ -107,9 +107,9 @@
 
    > | Data | Used in | Applied and stored when | Deleted when |
    > |------|------ |---------- | ------ |
-   > | Discord Application username | Creating the user account in the database | Using the application and/or Accepting privacy policies | Stopped using the service |
-   > | Habits Inserted to the application | Following every habit timeline |  Using the application and/or Accepting the privacy policies | Stopped using the service |
-   > | The time of habit insertion | Calculating the time of habit abandonment | Using the application and/or accpeting the privacy policies | Stopped using the service |
+   > | Discord Application username | Creating the user account in the database | Using the application and/or Accepting privacy policies | Account deletion request accepted |
+   > | Habits Inserted to the application | Following every habit timeline |  Using the application and/or Accepting the privacy policies |Account deletion request accepted |
+   > | The time of habit insertion | Calculating the time of habit abandonment | Using the application and/or accpeting the privacy policies |Account deletion request accepted |
 <br>
 
    > [!NOTE]
