@@ -24,7 +24,7 @@
  > | Habit tracker | 
  > | Habit adopting system |
  > | Motivation quotes |
- > | Random users chatting for help |
+ > | Random users chatting  |
 ---
 
 
